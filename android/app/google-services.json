@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "861518897090",
+    "project_id": "atg-mobile-75f6e",
+    "storage_bucket": "atg-mobile-75f6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861518897090:android:f71b9af633d95bbad3405b",
+        "android_client_info": {
+          "package_name": "atg.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861518897090-8vlf8ujmcc8bdaevu2pboj85m3ilcsu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBMvKjxcHNuzL_CHnxgosyEmbSpGgOcdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861518897090-8vlf8ujmcc8bdaevu2pboj85m3ilcsu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
